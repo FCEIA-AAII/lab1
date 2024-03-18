@@ -1,5 +1,5 @@
 # Lab 1 - Perceptrón simple
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FCEIA-AAII/lab1/blob/main/solucion.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FCEIA-AAII/lab1/blob/main/lab1.ipynb)
 
 ## Objetivos
 
